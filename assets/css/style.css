@@ -22,6 +22,7 @@ body::before {
   color: #f1304d;
 }
 
+
 @media (min-width: 1024px) {
 
   body::before {
