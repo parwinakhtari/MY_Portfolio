@@ -832,9 +832,6 @@ pre loader
     --electron-speed-omega : .8s;
 }
 
-.disappear {
-    animation: vanish 1s forwards;
-}
 
 .loader-container {
   position: fixed;
